@@ -1,7 +1,8 @@
 # rogues-repository
 
 this is my repository for malware! mostly rogues and other "cool" things i find while browsing sketchy sites.
-i also have no idea how to use github so bare with me
+most of these are gonna be pc optimizers that dont work but theres other things here too.
+i also have no idea how to use github so bare with me.
 
 pass for the zip files is "Bingle"
 
